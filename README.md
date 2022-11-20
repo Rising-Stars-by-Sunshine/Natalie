@@ -7,4 +7,4 @@ Natalie is a sophomore majoring in Computation & Design, with a track in social 
 
 # Projects
 
-[Problem Set 1] (https://github.com/Rising-Stars-by-Sunshine/Natalie/tree/main/Problem%20Set%201)
+[Problem Set 1](https://github.com/Rising-Stars-by-Sunshine/Natalie/tree/main/Problem%20Set%201)
